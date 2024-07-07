@@ -1,1 +1,1 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"小玄 x 图解计算机基础\",\"description\":\"图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"小玄 x 计算机基础\",\"description\":\"详细解析HTML、CSS、JavaScript、Vue、React、浏览器、计算机网络，让天下没有难懂的八股文！\",\"head\":[],\"locales\":{}}")

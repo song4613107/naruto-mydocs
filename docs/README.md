@@ -3,11 +3,11 @@ home: true
 title: 首页
 heroImage: https://sns-avatar-qc.xhscdn.com/avatar/6649d0c156cd5c043e7b13f6.jpg?imageView2/2/w/540/format/webp|imageMogr2/strip2
 actions:
-  - text: Get Started
-    link: /getting-started.html
+  - text: 面试真题
+    link: /interview/1-douyin.html
     type: primary
 
-  - text: Introduction
+  - text: Call Me
     link: https://vuejs.press/guide/introduction.html
     type: secondary
 
@@ -25,9 +25,6 @@ features:
   - title: Node
     details: Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。它允许开发者在服务器端运行 JavaScript 代码，用于构建网络应用。Node.js 拥有大量的包（通过 npm 管理），可以轻松实现各种服务器端功能。
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: Naruto
 ---
 
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
-
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
